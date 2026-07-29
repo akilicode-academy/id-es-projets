@@ -1,2 +1,2 @@
-# id-es-projets
+# idees-projets
 Exemples de projets pour inspirer les étudiants
